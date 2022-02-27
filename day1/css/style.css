@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+h2{
+ font-size: 30px;  
+ margin-left: 300px; 
+}
+.title {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top:30%;
+    left: 50%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+.section2 {
+    text-align: right;
+    color: teal;
+}
+.paragraph2 {
+    text-align: right;
+}
+.box {
+    padding: 0px 215px;
+}
+.section1 {
+    color: teal;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    width: 100vw;
+    background-color: rgba(0, 29, 36, 1);
+    margin-top: 50px;
+}
+
+
